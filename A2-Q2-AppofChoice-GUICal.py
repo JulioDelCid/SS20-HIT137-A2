@@ -1,7 +1,7 @@
-# Assigment:        Question 2b - Create a program of your choice
-# Contributors:     Julio Del Cid studentid 332808
-# GITHUB Repo:      https://github.com/JulioDelCid/SS20-HIT137-A2/ 
-#
+# Assigment:    Question 2b - Create a program of your choice
+# Contributors: Julio Del Cid studentid 332808
+# GITHUB Repo:  https://github.com/JulioDelCid/SS20-HIT137-A2/ 
+# Credits:      https://www.qt.io/product, https://codeloop.org/about/, https://www.kite.com/get-kite/  
 #
 #############       Commence assignmet code ##############################
 #

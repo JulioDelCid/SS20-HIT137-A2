@@ -1,7 +1,9 @@
 # Assigment 2:      Question 1 - Turtle draw
 # Contributors:     Julio Del Cid studentid 332808
 # GITHUB Repo:      https://github.com/JulioDelCid/SS20-HIT137-A2/ 
-#
+# Credits:          https://docs.python.org/3/library/turtle.html, 
+#                   https://www.techwithtim.net/tutorials/python-module-walk-throughs/turtle-module/,
+#                   https://www.youtube.com/watch?v=hxbEubm1yQo 
 #
 #############       Commence assignmet code ##############################
 
